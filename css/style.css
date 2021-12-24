@@ -617,13 +617,18 @@ ul.footer_social li a i:hover {
 	z-index: 999;
 	overflow: hidden;
 	position: relative;
-  	padding-top: 140px;
+  	padding-top: 20px;
   	padding-bottom: 80px;
-  	background-color: #1e90ff;
+  	background-color: #757575;
 }
 
 .home-section h1{
     color: #fff;
+}
+
+.home-section h2{
+    color: #fff;
+	text-align: center;
 }
 
 .home-section p{
@@ -633,6 +638,7 @@ ul.footer_social li a i:hover {
 	line-height: 30px;
 	font-weight: 400;
 	color: #fff;
+	text-align: center;
 }
 
 ul.home-benefits {
